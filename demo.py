@@ -2,3 +2,4 @@
 print("hello world")
 print("FOSS practical on GitHub")
 print("FOSS practical is intresting")
+print("It is my second FOSS practical")
